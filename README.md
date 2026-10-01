@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 ## Linked List
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
