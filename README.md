@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/S88-tech/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/S88-tech/Leetcode_Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
