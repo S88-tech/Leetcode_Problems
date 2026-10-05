@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/S88-tech/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/S88-tech/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/S88-tech/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/S88-tech/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/S88-tech/Leetcode_Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
