@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/S88-tech/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/S88-tech/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/S88-tech/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/S88-tech/Leetcode_Problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/S88-tech/Leetcode_Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
