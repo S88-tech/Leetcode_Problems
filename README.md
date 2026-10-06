@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/S88-tech/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/S88-tech/Leetcode_Problems/tree/master/0342-power-of-four) |
+| [0372-super-pow](https://github.com/S88-tech/Leetcode_Problems/tree/master/0372-super-pow) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/S88-tech/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/S88-tech/Leetcode_Problems/tree/master/0372-super-pow) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/S88-tech/Leetcode_Problems/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/S88-tech/Leetcode_Problems/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
