@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/S88-tech/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/S88-tech/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/S88-tech/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Union-Find
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/S88-tech/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/S88-tech/Leetcode_Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/S88-tech/Leetcode_Problems/tree/master/0342-power-of-four) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/S88-tech/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
