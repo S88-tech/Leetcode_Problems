@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/S88-tech/Leetcode_Problems/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
