@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/S88-tech/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/S88-tech/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2270-number-of-ways-to-split-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/2270-number-of-ways-to-split-array) |
