@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/S88-tech/Leetcode_Problems/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Array
 |  |
 | ------- |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
