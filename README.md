@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/S88-tech/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/S88-tech/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [1991-find-the-middle-index-in-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2270-number-of-ways-to-split-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/2270-number-of-ways-to-split-array) |
@@ -101,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S88-tech/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Sorting
 |  |
 | ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Bit Manipulation
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 <!---LeetCode Topics End-->
