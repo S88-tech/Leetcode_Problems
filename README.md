@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2270-number-of-ways-to-split-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/2270-number-of-ways-to-split-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Union-Find
 |  |
@@ -100,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S88-tech/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Sorting
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Bit Manipulation
 |  |
@@ -150,4 +153,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
