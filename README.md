@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2270-number-of-ways-to-split-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/S88-tech/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Union-Find
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/S88-tech/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
