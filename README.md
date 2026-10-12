@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/S88-tech/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
@@ -189,4 +190,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/S88-tech/Leetcode_Problems/tree/master/1137-n-th-tribonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
