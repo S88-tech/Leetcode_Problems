@@ -4,5 +4,5 @@ class Solution:
         print(p)
         if x<0:
             return False
-        return (p)==x    
+        return int(p)==x    
                  
