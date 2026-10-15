@@ -6,9 +6,9 @@ class Solution:
             seen=set()
             for j in range(i,n):
                 seen.add(nums[j])
-                l=len(seen)
-                total_len=l*l
-                total+=total_len         
+                total+=len(seen)*len(seen)
+                # total_len=l*l
+                # total+=total_len         
         return total     
 
         
