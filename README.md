@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/S88-tech/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/S88-tech/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/S88-tech/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/S88-tech/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/0112-path-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/S88-tech/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/S88-tech/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
