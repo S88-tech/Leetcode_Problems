@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/S88-tech/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/S88-tech/Leetcode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/S88-tech/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/S88-tech/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/S88-tech/Leetcode_Problems/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/S88-tech/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3498-reverse-degree-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/S88-tech/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/S88-tech/Leetcode_Problems/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/S88-tech/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Recursion
 |  |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/S88-tech/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/S88-tech/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
