@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/S88-tech/Leetcode_Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 ## Union-Find
 |  |
