@@ -10,7 +10,7 @@ class Solution:
                 c=1
             ans=max(ans,c)
 
-        return ans if n>0 else 0                     
+        return ans                    
 
 
         
