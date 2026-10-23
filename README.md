@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [1991-find-the-middle-index-in-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/S88-tech/Leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2270-number-of-ways-to-split-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/2270-number-of-ways-to-split-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/S88-tech/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/S88-tech/Leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
