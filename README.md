@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/S88-tech/Leetcode_Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/S88-tech/Leetcode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/S88-tech/Leetcode_Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/S88-tech/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [2351-first-letter-to-appear-twice](https://github.com/S88-tech/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/S88-tech/Leetcode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Recursion
 |  |
 | ------- |
