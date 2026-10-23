@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/S88-tech/Leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Ordered Set
 |  |
