@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/S88-tech/Leetcode_Problems/tree/master/0372-super-pow) |
 | [1137-n-th-tribonacci-number](https://github.com/S88-tech/Leetcode_Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/S88-tech/Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2409-count-days-spent-together](https://github.com/S88-tech/Leetcode_Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/S88-tech/Leetcode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/S88-tech/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/S88-tech/Leetcode_Problems/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/S88-tech/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
