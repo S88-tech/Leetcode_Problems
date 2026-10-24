@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/S88-tech/Leetcode_Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/S88-tech/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/S88-tech/Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/S88-tech/Leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/S88-tech/Leetcode_Problems/tree/master/0372-super-pow) |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Ordered Set
@@ -245,4 +249,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/S88-tech/Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
