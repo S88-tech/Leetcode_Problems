@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/S88-tech/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/S88-tech/Leetcode_Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/S88-tech/Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/S88-tech/Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/S88-tech/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/1818-minimum-absolute-sum-difference) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/S88-tech/Leetcode_Problems/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/S88-tech/Leetcode_Problems/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
