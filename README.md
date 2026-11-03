@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/S88-tech/Leetcode_Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/S88-tech/Leetcode_Problems/tree/master/2413-smallest-even-multiple) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/S88-tech/Leetcode_Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/S88-tech/Leetcode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3357-minimize-the-maximum-adjacent-element-difference](https://github.com/S88-tech/Leetcode_Problems/tree/master/3357-minimize-the-maximum-adjacent-element-difference) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/S88-tech/Leetcode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/S88-tech/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/S88-tech/Leetcode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/S88-tech/Leetcode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/S88-tech/Leetcode_Problems/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/S88-tech/Leetcode_Problems/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
