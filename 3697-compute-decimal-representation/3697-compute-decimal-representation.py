@@ -1,9 +1,14 @@
 class Solution:
     def decimalRepresentation(self, n: int) -> List[int]:
-        ans = []
-        for i, d in enumerate(str(n)[::-1]):
-            if d != '0':
-                ans.append(int(d) * (10 ** i))
-        return ans[::-1]    
+        n1=len(str(n))
+        ans=[]
+        place=1
+        while n>0:
+            r=n%10
+            if r!=0:
+                ans.append(r*place)
+            n//=10
+            place=place*10
+        return ans[::-1]        
 
         
